@@ -2,6 +2,7 @@
   "name": "@franjid/easy-firebase-notifications",
   "version": "1.0.0",
   "description": "Send notifications messages through Firebase",
+  "keywords": ["firebase", "firebase-cloud-messaging", "fcm"],
   "main": "index.js",
   "author": "Franjid",
   "license": "MIT",
