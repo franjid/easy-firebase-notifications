@@ -1,5 +1,5 @@
 {
-  "name": "easy-firebase-notifications",
+  "name": "@franjid/easy-firebase-notifications",
   "version": "1.0.0",
   "description": "Send notifications messages through Firebase",
   "main": "index.js",
